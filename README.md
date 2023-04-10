@@ -6,4 +6,4 @@
 * [Efficient Strategies for Effective Stable Diffusion Prompt: A Comprehensive Guide](https://pub.towardsai.net/efficient-strategies-for-effective-stable-diffusion-prompt-a-comprehensive-guide-1964483642bd?sk=49771a8b5a9a570fd356ba52e766ce45)
 * Build Your Stable Diffusion From Scratch: A Step by Step Guide [[Code]() | [Article]()]
 * Stable Diffusion-Based Image Generation Web Application Using Fast API & React [[Article](https://medium.com/geekculture/stable-diffusion-based-image-generation-web-application-using-fast-api-react-d519078567bf?sk=6c1ef9063210eda30221be1cbe2dc84b) | [Code](https://github.com/youssefHosni/Stable-Diffusion-Crash-Course/tree/main/Stable%20Diffusion%20Web%20Application)]
-* [Stable Diffusion Papers]()
+* [Stable Diffusion Papers](https://github.com/youssefHosni/Stable-Diffusion-Crash-Course/blob/main/Stable%20Diffusion%20Papers.md)
